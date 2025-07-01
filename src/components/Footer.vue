@@ -83,8 +83,8 @@
         </div>
         <div>
           Copyright © 2025 - {{ new Date().getFullYear() }} <a 
-            :href="https://230721.xyz"
-            target="_blank"
+            :href="pkg.repository.url"
+            target="https://230721.xyz"
             rel="noopener noreferrer"
             class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
           >
