@@ -33,7 +33,7 @@
     <div class="flex flex-col items-center gap-4 text-sm text-gray-500 dark:text-gray-400">
       <div class="flex items-center gap-6">
         <a 
-          :href="pkg.repository.url"
+          :href="pkg.repository1"
           target="_blank"
           rel="noopener noreferrer"
           class="inline-flex items-center justify-center p-1.5 rounded-full transition-colors duration-200
@@ -83,7 +83,7 @@
         </div>
         <div>
           Copyright © 2025 - {{ new Date().getFullYear() }} <a 
-            :href="pkg.repository.url"
+            :href="pkg.repository1"
             target="_blank"
             rel="noopener noreferrer"
             class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
