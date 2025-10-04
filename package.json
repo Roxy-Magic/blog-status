@@ -2,12 +2,12 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
+  "author": "Roxy_Magic",
   "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "email": "2955321963@qq.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/Roxy-Magic"
   },
   "type": "module",
   "scripts": {
