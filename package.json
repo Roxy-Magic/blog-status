@@ -5,9 +5,10 @@
   "author": "Roxy_Magic",
   "url": "https://blog.roxymagic.top/",
   "email": "2955321963@qq.com",
+  "repository1": "https://github.com/Roxy-Magic",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Roxy-Magic"
+    "url": "https://github.com/JLinmr/Uptime-Status"
   },
   "type": "module",
   "scripts": {
